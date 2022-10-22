@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @touseef09
-- 👀 I’m interested in R Programming, ARCGIS, Remote Sesing and Adobe Premium Pro
-- 🌱 I’m currently learning R Programming.
-- 💞️ I’m looking to collaborate on R Programming
+- 👀 I’m interested in R Programming, Shiny, Google Earth Engine, Javascript, Python, ARCGIS, Remote Sesing
+- 🌱 I’m currently learning R Programming, Google Earth Engine, Javascript and Google Earth Engine 
+- 💞️ I’m looking to collaborate on R Programming and Google Earth Engine
 - 📫 How to reach me (touseef.ahmed@ttu.edu)
 
 <!---
